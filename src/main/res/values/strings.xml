@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Ceri App</string>
+
+    <string-array name="Main">
+        <item> Day </item>
+        <item> My Week </item>
+        <item> Calendar </item>
+        <item> Eval </item>
+        <item> Options </item>
+    </string-array>
+
+    <string-array name="Description">
+        <item> Cours de la journee </item>
+        <item> Semaine en cours(a faire )</item>
+        <item> Choisir un jour  </item>
+        <item> Prochaine eval </item>
+        <item> changer groupe </item>
+    </string-array>
+
+    <string-array name="Week">
+        <item> Monday </item>
+        <item> Tuesday </item>
+        <item> Wednesday </item>
+        <item> Thursday  </item>
+        <item> Friday </item>
+        <item> Saturday </item>
+    </string-array>
+
+    <string-array name="groupe">
+        <item> TD1 </item>
+        <item> TD2 </item>
+        <item> TD3 </item>
+        <item> TD4 </item>
+        <item> TD5 ALT </item>
+        <item> TD6 ALT </item>
+    </string-array>
+
+</resources>
